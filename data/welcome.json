@@ -1,0 +1,11 @@
+{
+  "badge": "Windows 12 Preview",
+  "title": "Welcome to the Windows 12 concept official project update",
+  "paragraphs": [
+    "This app is not an exact prediction of any real Windows 12 release. It is a concept shell built around current Windows 11 design language and community discussion around future Canary and 27H2-style ideas.",
+    "The goal is to keep the shell more Windows-like over time, with smoother transitions, better windowing, stronger Settings surfaces, and a cleaner desktop anchored by This PC.",
+    "The project is intended to update once per month. Release notes, bug reports, and feature requests can be collected from the GitHub page you publish it from.",
+    "This build also introduces an optional native folder with C source files for future desktop effects, restart helpers, and wallpaper-related native utilities."
+  ],
+  "footnote": "Preview software note: use this as a concept experience, not as proof of any official Microsoft plan or unannounced product design."
+}

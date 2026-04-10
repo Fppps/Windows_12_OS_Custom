@@ -1,0 +1,12 @@
+{
+  "accent": "#58b7ff",
+  "window_bg": "#071024",
+  "surface": "rgba(15, 24, 48, 0.78)",
+  "surface_soft": "rgba(255, 255, 255, 0.08)",
+  "surface_border": "rgba(255, 255, 255, 0.18)",
+  "taskbar": "rgba(239, 242, 250, 0.84)",
+  "taskbar_border": "rgba(255, 255, 255, 0.38)",
+  "wallpaper_top": "#1b1479",
+  "wallpaper_mid": "#2551ca",
+  "wallpaper_bottom": "#8038e0"
+}

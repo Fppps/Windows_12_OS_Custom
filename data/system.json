@@ -1,0 +1,26 @@
+{
+  "preview_name": "Windows 12 Preview",
+  "copy_line": "Evaluation copy.",
+  "build_number": "1ce6cfb",
+  "update_label": "1U00",
+  "user": {
+    "name": "Brittany",
+    "initials": "BC",
+    "password": "preview",
+    "login_wallpaper": "violet.png"
+  },
+  "network": {
+    "name": "Home Wi-Fi 6",
+    "status": "Connected, secure",
+    "strength": "Strong",
+    "adapter": "Intel Wi-Fi 6E"
+  },
+  "sound": {
+    "output": "Speakers (Realtek Audio)",
+    "volume": 68
+  },
+  "display": {
+    "brightness": 76,
+    "night_light": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "default": "aurora.png",
+  "available": [
+    {
+      "name": "Aurora",
+      "file": "aurora.png"
+    },
+    {
+      "name": "Ocean",
+      "file": "ocean.png"
+    },
+    {
+      "name": "Violet",
+      "file": "violet.png"
+    },
+    {
+      "name": "Bloom",
+      "file": "bloom.png"
+    }
+  ]
+}

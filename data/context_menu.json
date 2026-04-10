@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "Open This PC",
+      "action": "explorer"
+    },
+    {
+      "name": "Open Settings",
+      "action": "settings"
+    },
+    {
+      "name": "Refresh desktop",
+      "action": "refresh"
+    },
+    {
+      "name": "Cycle wallpaper",
+      "action": "wallpaper"
+    },
+    {
+      "name": "Welcome screen",
+      "action": "welcome"
+    }
+  ]
+}

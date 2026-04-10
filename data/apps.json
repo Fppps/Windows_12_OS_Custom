@@ -1,0 +1,34 @@
+{
+  "desktop": [
+    {
+      "name": "This PC",
+      "icon": "pc",
+      "action": "explorer"
+    }
+  ],
+  "start": [
+    {
+      "name": "This PC",
+      "icon": "pc",
+      "action": "explorer"
+    },
+    {
+      "name": "Settings",
+      "icon": "control",
+      "action": "settings"
+    },
+    {
+      "name": "Welcome",
+      "icon": "update",
+      "action": "welcome"
+    }
+  ],
+  "taskbar": [
+    {
+      "name": "This PC",
+      "icon": "pc",
+      "action": "explorer",
+      "active": false
+    }
+  ]
+}

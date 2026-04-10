@@ -1,0 +1,10 @@
+{
+  "location": "Evansville",
+  "temperature": "50°F",
+  "condition": "Sunny",
+  "high": "55°F",
+  "low": "41°F",
+  "wind": "7 mph",
+  "humidity": "48%",
+  "forecast": "Clear this morning, then mild clouds late."
+}

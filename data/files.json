@@ -1,0 +1,32 @@
+{
+  "files": [
+    {
+      "name": "Preview notes.txt",
+      "icon": "doc",
+      "location": "This PC\\Documents",
+      "modified": "Today, 7:04 AM",
+      "size": "12 KB"
+    },
+    {
+      "name": "Desktop concept.png",
+      "icon": "image",
+      "location": "This PC\\Pictures",
+      "modified": "Yesterday, 8:42 PM",
+      "size": "2.6 MB"
+    },
+    {
+      "name": "Release checklist.xlsx",
+      "icon": "sheet",
+      "location": "This PC\\Documents",
+      "modified": "Yesterday, 3:14 PM",
+      "size": "88 KB"
+    },
+    {
+      "name": "Intro animation.mp4",
+      "icon": "video",
+      "location": "This PC\\Videos",
+      "modified": "Tuesday, 10:21 PM",
+      "size": "41.3 MB"
+    }
+  ]
+}

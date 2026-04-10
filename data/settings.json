@@ -1,0 +1,85 @@
+{
+  "preview_card": "Windows 12 Preview   Build 1ce6cfb   Update 1U00",
+  "categories": [
+    {
+      "name": "System",
+      "description": "Display, sound, notifications, power, and storage for your device.",
+      "card_title": "System summary",
+      "card_text": "Brightness 76%, speakers active, energy saver ready."
+    },
+    {
+      "name": "Bluetooth & devices",
+      "description": "Manage connected devices such as Bluetooth accessories, printers, and input hardware.",
+      "card_title": "Devices",
+      "card_text": "Bluetooth ready, mouse and keyboard connected."
+    },
+    {
+      "name": "Network & internet",
+      "description": "Connect to Wi-Fi, review usage, and control network behavior.",
+      "card_title": "Network",
+      "card_text": "Home Wi-Fi 6 is connected and secure."
+    },
+    {
+      "name": "Personalization",
+      "description": "Adjust wallpaper, theme surfaces, and lock screen visuals.",
+      "card_title": "Personalization",
+      "card_text": "Aurora wallpaper is active. You can switch wallpapers below."
+    },
+    {
+      "name": "Apps",
+      "description": "Manage installed apps, defaults, and optional features.",
+      "card_title": "Apps",
+      "card_text": "This preview build keeps the app surface minimal."
+    },
+    {
+      "name": "Accounts",
+      "description": "Sign-in, sync state, and account preferences for the current user.",
+      "card_title": "Accounts",
+      "card_text": "Signed in as Brittany with a local preview profile."
+    },
+    {
+      "name": "Time & language",
+      "description": "Review time, regional format, input methods, and language preferences.",
+      "card_title": "Time & language",
+      "card_text": "Clock, date, and shell calendar are active."
+    },
+    {
+      "name": "Accessibility",
+      "description": "Visibility, narration, and input assistance settings.",
+      "card_title": "Accessibility",
+      "card_text": "High contrast and narration controls can be added next."
+    },
+    {
+      "name": "Privacy & security",
+      "description": "Device permissions, sign-in protection, and security settings.",
+      "card_title": "Privacy & security",
+      "card_text": "Use Settings to expand privacy controls in the next build."
+    },
+    {
+      "name": "Gaming",
+      "description": "Game mode, captures, and Xbox-related preferences.",
+      "card_title": "Gaming",
+      "card_text": "Game mode is concept-ready but not yet expanded in this shell."
+    },
+    {
+      "name": "Windows Update",
+      "description": "Preview update state, update label, and future delivery controls.",
+      "card_title": "Windows Update",
+      "card_text": "Update label 1U00 is active in this preview concept."
+    }
+  ],
+  "home_cards": [
+    {
+      "title": "System",
+      "text": "Top cards echo the modern Windows Settings homepage style."
+    },
+    {
+      "title": "Mobile devices",
+      "text": "Inspired by recent Windows support pages adding mobile device controls in Settings."
+    },
+    {
+      "title": "Windows Update",
+      "text": "Preview update label 1U00 remains visible across the shell."
+    }
+  ]
+}
