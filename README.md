@@ -42,3 +42,7 @@ Password: `preview`
 - Added an optional `native/` folder with C sources and build scripts.
 - The Python shell can load `w12native.dll` if you build it, but it still runs without it.
 - This is an **official project update** for your concept shell, not an official Microsoft update.
+
+## Note
+
+- You need python installed, look at all files before trying to go on the windows 12 app, So you know what to have or to do.
